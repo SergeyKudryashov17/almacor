@@ -10,6 +10,5 @@
  - API Яндекс.Карт (для создания интерактивных карт http://almacor-group.ru/geografija-obektov/ и http://almacor-group.ru/kontakty/)
  - библиотека js slick slider
 Сайт выполнен как тема для CMS Wordpress.
-4. Продемонстрируйте работу проекта:
-Работу проекта можно посмотреть по адресу - http://almacor-group.ru
+4. Работу проекта можно посмотреть по адресу - http://almacor-group.ru
 
